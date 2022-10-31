@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Curso.Prueba.Biblioteca.Application/1.0.0": {
+        "dependencies": {
+          "Curso.Prueba.Biblioteca.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Curso.Prueba.Biblioteca.Application.dll": {}
+        }
+      },
+      "Curso.Prueba.Biblioteca.Domain/1.0.0": {
+        "runtime": {
+          "Curso.Prueba.Biblioteca.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso.Prueba.Biblioteca.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Curso.Prueba.Biblioteca.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.deps.json
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.runtimeconfig.json
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.pdb
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Domain.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Domain.pdb
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.csproj.AssemblyReference.cache
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.AssemblyInfoInputs.cache
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.AssemblyInfo.cs
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.csproj.CoreCompileInputs.cache
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.csproj.CopyComplete
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\refint\Curso.Prueba.Biblioteca.Infraestructure.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.pdb
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Infraestructure.genruntimeconfig.cache
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Infraestructure\obj\Debug\net6.0\ref\Curso.Prueba.Biblioteca.Infraestructure.dll

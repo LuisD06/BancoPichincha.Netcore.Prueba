@@ -1,0 +1,15 @@
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Application.deps.json
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Application.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Application.pdb
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Domain.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\bin\Debug\net6.0\Curso.Prueba.Biblioteca.Domain.pdb
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.csproj.AssemblyReference.cache
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.AssemblyInfoInputs.cache
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.AssemblyInfo.cs
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.csproj.CoreCompileInputs.cache
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.csproj.CopyComplete
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\refint\Curso.Prueba.Biblioteca.Application.dll
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\Curso.Prueba.Biblioteca.Application.pdb
+E:\NetCore\Capacitacion\Prueba Practica\Biblioteca\src\Curso.Prueba.Biblioteca.Application\obj\Debug\net6.0\ref\Curso.Prueba.Biblioteca.Application.dll
